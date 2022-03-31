@@ -20,11 +20,11 @@
 
 ## Start development ##
 
-## Up api ##
+### Up api ###
 
 `docker-compose up nginx`
 
-## Up platform ##
+### Up platform ###
 
 `cd platform`
 `npm run dev` / `yarn dev`
