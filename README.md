@@ -35,6 +35,7 @@
 
 * __Laravel__^8.65 (api directory)  <br>
 <br>
+
 * __Vue__^3.2.31 with typescript <br>
 * __Vue-router__^4.0.12 <br>
 * __Pinia__^2.0.11 <br>
