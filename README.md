@@ -33,15 +33,15 @@
 
 ## What is inside? ##
 
-* __Laravel__^8.65 (api directory) 
+* __Laravel__^8.65 (api directory)  <br>
 <br>
-* __Vue__^3.2.31 with typescript
-* __Vue-router__^4.0.12
-* __Pinia__^2.0.11
-* __Vite__^2.8.4
-* __vitest__^0.5.0
-* __eslint__^8.5.0
-* __prettier__^2.5.1
+* __Vue__^3.2.31 with typescript <br>
+* __Vue-router__^4.0.12 <br>
+* __Pinia__^2.0.11 <br>
+* __Vite__^2.8.4 <br>
+* __vitest__^0.5.0 <br>
+* __eslint__^8.5.0 <br>
+* __prettier__^2.5.1 <br>
 
 ## Database connect ##
 
